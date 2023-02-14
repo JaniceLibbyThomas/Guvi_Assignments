@@ -1,4 +1,6 @@
 import mysql.connector
+import streamlit as st
+
 
 # Initialize connection.
 # Uses st.cache_resource to only run once.
